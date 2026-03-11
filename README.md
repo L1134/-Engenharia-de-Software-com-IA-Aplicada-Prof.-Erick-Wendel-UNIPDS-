@@ -66,35 +66,6 @@ Página web interativa com meu plano de estudos, objetivos e tecnologias que vou
 
 ---
 
-## 📁 Estrutura do repositório
-
-```
-modulo-01-intro-curso/
-├── README.md          ← Você está aqui
-├── src/
-│   └── index.html     ← Página de apresentação pessoal
-└── docs/
-    └── roadmap.png    ← Imagem do roadmap
-```
-
----
-
-## ▶️ Como rodar
-
-```bash
-# Clone o repositório
-git clone https://github.com/seu-usuario/modulo-01-intro-curso
-
-# Entre na pasta
-cd modulo-01-intro-curso/src
-
-# Abra no navegador
-# Clique duas vezes no index.html
-# (não precisa de servidor para este módulo)
-```
-
----
-
 ## 🗓️ Progresso
 
 - [x] Aula 1.1 — Apresentação do curso e professor
